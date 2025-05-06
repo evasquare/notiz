@@ -1,0 +1,89 @@
+:root {
+    --red__dark: #ef2525;
+    --red__light: #c41818;
+
+    --orange__dark: #ef6f25;
+    --orange__light: #c65818;
+
+    --yellow__dark: #efc325;
+    --yellow__light: #c19c16;
+
+    --green__dark: #36ef25;
+    --green__light: #21b913;
+
+    --blue__dark: #258aef;
+    --blue__light: #1364b5;
+
+    --indigo__dark: #8670ff;
+    --indigo__light: #513fb3;
+
+    --violet__dark: #dc5fff;
+    --violet__light: #9838b2;
+
+    --dim-opacity__dark: 0.4;
+    --dim-opacity__light: 0.5;
+}
+
+body.theme-dark #font__red {
+    color: var(--red__dark);
+}
+
+body.theme-light #font__red {
+    color: var(--red__light);
+}
+
+body.theme-dark #font__orange {
+    color: var(--orange__dark);
+}
+
+body.theme-light #font__orange {
+    color: var(--orange__light);
+}
+
+body.theme-dark #font__yellow {
+    color: var(--yellow__dark);
+}
+
+body.theme-light #font__yellow {
+    color: var(--yellow__light);
+}
+
+body.theme-dark #font__green {
+    color: var(--green__dark);
+}
+
+body.theme-light #font__green {
+    color: var(--green__light);
+}
+
+body.theme-dark #font__blue {
+    color: var(--blue__dark);
+}
+
+body.theme-light #font__blue {
+    color: var(--blue__light);
+}
+
+body.theme-dark #font__indigo {
+    color: var(--indigo__dark);
+}
+
+body.theme-light #font__indigo {
+    color: var(--indigo__light);
+}
+
+body.theme-dark #font__violet {
+    color: var(--violet__dark);
+}
+
+body.theme-light #font__violet {
+    color: var(--violet__light);
+}
+
+body.theme-dark #font__dim {
+    opacity: var(--dim-opacity__dark);
+}
+
+body.theme-light #font__dim {
+    opacity: var(--dim-opacity__light);
+}

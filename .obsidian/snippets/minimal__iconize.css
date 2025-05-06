@@ -1,0 +1,16 @@
+.mod-header:has(:nth-child(2)) .iconize-title-icon {
+    margin-left: 0 !important;
+}
+
+.iconize-title-icon svg {
+    width: 2em !important;
+    height: 2em !important;
+}
+
+.iconize-inline-title-wrapper {
+    max-width: var(--max-width);
+}
+
+.mod-header .iconize-inline-title-wrapper {
+    margin-inline: 0;
+}

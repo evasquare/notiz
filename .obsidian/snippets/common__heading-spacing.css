@@ -1,0 +1,6 @@
+.markdown-rendered
+    div:has(> :is(p, pre, table, ul, ol, blockquote, .math-block))
+    + div
+    > :is(h1, h2, h3, h4, h5, h6, .math .math-block) {
+    margin-top: var(--heading-spacing);
+}

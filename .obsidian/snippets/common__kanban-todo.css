@@ -1,0 +1,12 @@
+body .kanban-plugin__markdown-preview-view ol,
+body
+    .kanban-plugin__markdown-preview-view
+    ol.contains-task-list
+    .contains-task-list,
+body .kanban-plugin__markdown-preview-view ul,
+body
+    .kanban-plugin__markdown-preview-view
+    ul.contains-task-list
+    .contains-task-list {
+    padding-inline-start: 0 !important;
+}

@@ -1,0 +1,31 @@
+img[alt*="w90"],
+img[alt*="w80"],
+img[alt*="w70"],
+img[alt*="w60"],
+img[alt*="w50"] {
+    /* Default width for mobile views */
+    width: 100%;
+}
+
+/* Media query for desktop views (min-width: 768px) */
+@media screen and (min-width: 650px) {
+    img[alt*="w90"] {
+        width: 90% !important;
+    }
+
+    img[alt*="w80"] {
+        width: 80% !important;
+    }
+
+    img[alt*="w70"] {
+        width: 70% !important;
+    }
+
+    img[alt*="w60"] {
+        width: 60% !important;
+    }
+
+    img[alt*="w50"] {
+        width: 50% !important;
+    }
+}

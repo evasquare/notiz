@@ -1,0 +1,12 @@
+.markdown-rendered
+    > .markdown-preview-section
+    > .markdown-preview-pusher
+    + div:not(.mod-ui)
+    > *:first-child,
+.markdown-rendered
+    > .markdown-preview-section
+    > .mod-ui
+    + div:not(.mod-ui)
+    > *:first-child {
+    margin-top: 32px;
+}

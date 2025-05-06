@@ -1,0 +1,21 @@
+{
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "common__code-block-overflow",
+    "common__heading-top",
+    "common__image-sizes",
+    "common__kanban-todo",
+    "custom__text-color-template",
+    "default-theme__heading-spacing",
+    "default-theme__rounded-images",
+    "minimal__code-size",
+    "minimal__iconize",
+    "minimal__link-underline",
+    "minimal__modern-tab-bottom-outline",
+    "minimal__nav-buttons-center",
+    "mobile-font",
+    "common__heading-spacing"
+  ],
+  "theme": "system",
+  "nativeMenus": false
+}
