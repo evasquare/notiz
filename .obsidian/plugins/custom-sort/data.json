@@ -3,7 +3,7 @@
   "indexNoteNameForFolderNotes": "",
   "suspended": false,
   "statusBarEntryEnabled": true,
-  "notificationsEnabled": true,
+  "notificationsEnabled": false,
   "mobileNotificationsEnabled": false,
   "customSortContextSubmenu": true,
   "automaticBookmarksIntegration": true,
