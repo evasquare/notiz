@@ -2,7 +2,9 @@
 <img src="./Attachments/Banner.png">
 
 ## Welcome
-Welcome to Notiz! Notiz is an Obsidian starter template that helps you start an Obsidian vault without much hassle. It comes with ready-to-use configurations, pre-designed CSS styles, and useful community plugins.
+Welcome to Notiz!
+
+Notiz is an Obsidian starter template that helps you start an Obsidian vault without much hassle. It comes with ready-to-use configurations, pre-designed CSS styles, and useful community plugins.
 
 
 ## Preview Images
@@ -15,7 +17,7 @@ Base color scheme is set to "Adapt to system" by default.
 
 
 ## Have a look at the guides!
-Feel free to refer to following documents to learn what this starter pack has to offer. <font id="font__dim">(You might need to open them on Obsidian.)</font>
+Feel free to refer to following documents to learn what this starter pack has to offer. <font id="font__dim">(You might need to open them in Obsidian.)</font>
 
 - [Font Tag Styles](./Other%20Notes/Font%20Tag%20Styles.md)
 - [Additional Shortcuts](./Other%20Notes/Additional%20Shortcuts.md)
