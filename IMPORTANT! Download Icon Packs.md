@@ -1,0 +1,1 @@
+When you first launch the vault, you might realize that icons are missing. It's because icon packs were excluded from this starter pack. Go to "Settings -> Iconize" to download missing icon packs.
