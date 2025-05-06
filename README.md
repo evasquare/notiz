@@ -14,3 +14,4 @@ Feel free to refer to following documents to learn what this starter pack has to
 - [Additional Shortcuts](./Other%20Notes/Additional%20Shortcuts.md)
 - [How to format a document](./Other%20Notes/How%20to%20format%20a%20document.md)
 - [How to change the accent color](./Other%20Notes/How%20to%20change%20the%20accent%20color.md)
+- [Configure Custom Sorting](./Other%20Notes/Configure%20Custom%20Sorting.md)
