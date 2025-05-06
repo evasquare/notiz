@@ -1,24 +1,24 @@
 :root {
-    --red__dark: #ef2525;
-    --red__light: #c41818;
+    --red__dark: #b96d6d;
+    --red__light: #922727;
 
-    --orange__dark: #ef6f25;
-    --orange__light: #c65818;
+    --orange__dark: #d9a36d;
+    --orange__light: #c86f1a;
 
-    --yellow__dark: #efc325;
-    --yellow__light: #c19c16;
+    --yellow__dark: #d9d96d;
+    --yellow__light: #c8c81a;
 
-    --green__dark: #36ef25;
-    --green__light: #21b913;
+    --green__dark: #a7b96d;
+    --green__light: #799227;
 
-    --blue__dark: #258aef;
-    --blue__light: #1364b5;
+    --blue__dark: #6d9cb9;
+    --blue__light: #276292;
 
-    --indigo__dark: #8670ff;
-    --indigo__light: #513fb3;
+    --indigo__dark: #7d6db9;
+    --indigo__light: #4a2792;
 
-    --violet__dark: #dc5fff;
-    --violet__light: #9838b2;
+    --violet__dark: #b96db2;
+    --violet__light: #92276f;
 
     --dim-opacity__dark: 0.4;
     --dim-opacity__light: 0.5;
