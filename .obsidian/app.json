@@ -2,7 +2,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Other Notes",
   "attachmentFolderPath": "Attachments",
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "livePreview": false,
   "alwaysUpdateLinks": true
 }
