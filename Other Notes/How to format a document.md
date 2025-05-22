@@ -1,6 +1,6 @@
 Notiz includes a community plugin called "Formatto." Formatto is a lightweight Markdown formatter specifically designed to work on Obsidian.
 
-Refer to [its GitHub repository](https://github.com/evasquare/formatto) to learn more.
+Refer to [its GitHub repository](https://github.com/evasquare/formatto) to learn more about it.
 
 
 
